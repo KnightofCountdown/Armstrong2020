@@ -1,0 +1,14 @@
+body{background: url(Sombraback.png) no-repeat center fixed;
+background-size: 100% 100%;
+color:black;}
+html, body{text-align:center;}
+/* unvisited link */
+a:link {color:#000000;
+	background-color: transparent;
+	text-decoration:none;}
+/* visited link */
+a:visited {color:#000000;
+	background-color: transparent;
+	text-decoration:none;}
+/* mouse over link */
+a:hover{ color:#9900ff;}
